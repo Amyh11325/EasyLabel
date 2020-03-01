@@ -1,0 +1,2 @@
+rootProject.name='easyLabel2'
+include ':app'

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">easyLabel2</string>
+    <string name="low_storage_error">lowStorageError</string>
+</resources>
